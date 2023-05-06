@@ -1,0 +1,4 @@
+resource "local_file" "batch3" {
+    filename = "gajanan.txt"
+    content = "hey this is gajanan"
+    }
